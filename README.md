@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdirahman</h1>
 <h3 align="center">A Passionate Full Stack Developer from Hargeisa, Somaliland</h3>
 
-<p align="left" style="width:3rem"> <img src="https://komarev.com/ghpvc/?username=luunge&label=Profile%20views&color=0e75b6&style=flat" alt="luunge" /> </p>
+<p align="left" style="width:7rem;height:3rem"> <img src="https://komarev.com/ghpvc/?username=luunge&label=Profile%20views&color=0e75b6&style=flat" alt="luunge" /> </p>
 
 <p align="left"> <a href="https://twitter.com/amdam44" target="blank"><img src="https://img.shields.io/twitter/follow/amdam44?logo=twitter&style=for-the-badge" alt="amdam44" /></a> </p>
 
