@@ -1,7 +1,11 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=luunge&label=Profile%20views&color=0e75b6&style=flat" alt="luunge" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/amdam44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amdam44" height="30" width="40" /></a>
+</p>
+
 
 ### <div align="center">I'm Abdirahman, a Full-Stack developer from Hargeisa, Somaliland 🚀</div>  
 <br/>
