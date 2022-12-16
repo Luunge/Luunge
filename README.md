@@ -1,4 +1,5 @@
-# <div align="center">I'm Abdirahman, a Full-Stack developer from Hargeisa, Somaliland 🚀</div>  
+# <div align="center">I'm Abdirahman,</div>  
+## <div align="center">a Full-Stack developer from Hargeisa, Somaliland 🚀</div>  
 <br/>
 
 
