@@ -18,4 +18,4 @@
 </div>
 
 
-I'm Mohamud Abshir, Front-End 
+I'm Mohamud Abshir, 
