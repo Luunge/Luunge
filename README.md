@@ -1,5 +1,5 @@
 # <div align="center">I'm Abdirahman,</div>  
-## <div align="center">from 🇸🇴 Hargeisa, Somaliland, Happy to see your smiling face, am glad you are on my Gihub profile. 🚀</div>  
+## <div align="center">A Full Stack Developer from 🇸🇴 Hargeisa, Somaliland, am glad you are on my Gihub profile. 🚀</div>  
 <br/>
 
 <p align="left" style="font-size:2rem"> <img src="https://komarev.com/ghpvc/?username=luunge&label=Profile%20views&color=0e75b6&style=flat" alt="luunge" /> </p>
