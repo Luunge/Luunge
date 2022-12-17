@@ -2,13 +2,7 @@
 ## <div align="center">A Full-Stack Developer from Hargeisa, Somaliland 🚀</div>  
 <br/>
 
-
 <p align="left" style="font-size:2rem"> <img src="https://komarev.com/ghpvc/?username=luunge&label=Profile%20views&color=0e75b6&style=flat" alt="luunge" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/amdam44" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amdam44" height="30" width="40" /></a>
-</p>
 
 ## Connect with me  
 <div align="center">
