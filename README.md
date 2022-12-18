@@ -18,4 +18,4 @@
 </div>
 
 
-A Full Stack Developer from Hargeisa, Somaliland, am glad.
+A Full Stack Developer from Hargeisa, Somaliland,
