@@ -19,4 +19,4 @@
 
 
 
-A Full Stack Developer from.
+A Full Stack Developer
