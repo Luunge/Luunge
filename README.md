@@ -19,4 +19,4 @@
 
 
 
-A Full Stack Developer from Hargeisa, Somaliland, am glad you are on my
+A Full Stack Developer from Hargeisa, Somaliland, am glad you
