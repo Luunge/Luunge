@@ -19,4 +19,4 @@
 
 
 
-A Full Stack Developer from Hargeisa.
+A Full Stack Developer from.
