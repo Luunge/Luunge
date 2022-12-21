@@ -1,4 +1,4 @@
-# <div align="left">I'm Abdirahman,</div>  
+# <div align="left">Hi, i'm Abdirahman Ahmad Luunge</div>  
 ### <div align="left">A Full Stack Developer from Hargeisa, Somaliland, am glad you are on my Gihub profile. 🚀</div>  
 <br/>
 
