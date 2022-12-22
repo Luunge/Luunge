@@ -2,7 +2,7 @@
 ### <div align="left">A Full Stack Developer from Hargeisa, Somaliland, am glad you are on my Gihub profile. 🚀</div>  
 <br/>
 
-<p align="left"> <img width="150px" src="https://komarev.com/ghpvc/?username=luunge&label=Profile%20views&color=ff0000&style=flat" alt="luunge" /> </p>
+<p align="left"> <img width="160px" src="https://komarev.com/ghpvc/?username=luunge&label=Profile%20views&color=ff0000&style=flat" alt="luunge" /> </p>
  
 ## Connect with me  
 <div align="center">
